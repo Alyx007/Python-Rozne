@@ -1,0 +1,1 @@
+print(42," ", type(42), " ", "Tajemnica", type("Tajemnica"), " ", 3.14, " ", type(3.14))
