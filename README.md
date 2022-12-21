@@ -1,3 +1,3 @@
 # Python-Rozne
 
-![Back-end connecions](https://github.com/[Alyx007]/[Python-Rozne]/blob/[main]/backend.png?raw=true)
+![alt text]([http://url/to/img.png](https://github.com/Alyx007/Python-Rozne/blob/main/backend.png))
