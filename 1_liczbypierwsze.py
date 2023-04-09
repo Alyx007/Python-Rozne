@@ -1,6 +1,9 @@
 n = 10000
+a = []
+
+
 def pierwsza(n):
-    a = []
+
     for i in range(2, n):
         for j in range(i+1, n):
             if j % i == 0:
@@ -9,3 +12,6 @@ def pierwsza(n):
                 a[j] = 1
     return a
 
+
+pierwsza(n)
+print(a)
